@@ -13,10 +13,10 @@ I'm a rising junior at Santa Monica High School, and aspiring computer scientist
 | JavaScript     | 🌟Fluent| - [Public Tree Map](https://github.com/theswerd/public-tree-map): Using Vanilla JavaScript, CSS, and HTML, I worked on re-structuring the front-end sidebar, and topbar. I also helped to create the mobile structures.   <br> - [Yale Open Lab Consumer Disclosure](https://github.com/YaleOpenLab/rhizomatic): Built the front end for a svelte chrome extension.   |
 | NodeJS     | 🌟Fluent| - [SAMOHI Connect](https://github.com/theswerd/SAMOConnectOpen): An app I built for my high school, backend is NodeJS Cloud Functions.         |
 | ReactJS    | Studying| - [Material UI](https://github.com/mui-org/material-ui): Contributed to Material UI          |
-| Kubernetes | Studying| - [https://github.com/cheezbit/hackauth](HackAuth): Go Fiber backend to detect devpost projects cheating hosted on Kubernetes |
-| Go-lang    | Studying| - [https://github.com/cheezbit/hackauth](HackAuth): Go Fiber backend to detect devpost projects cheating         |
-| GCP        | Studying| - [https://github.com/theswerd/beachy](Beachy): Backend built using Cloud Firestore, Cloud Functions, Firebase Auth, and Firebase ML <br>     |
-| AWS        | Studying| - [http://steveswerdlow.com](Steve Swerdlow's Website): I host Steve Swerdlow's website on an AWS EC2, and Route the Domain through Route 53.         |
+| Kubernetes | Studying| - [HackAuth](https://github.com/cheezbit/hackauth): Go Fiber backend to detect devpost projects cheating hosted on Kubernetes |
+| Go-lang    | Studying| - [HackAuth](https://github.com/cheezbit/hackauth): Go Fiber backend to detect devpost projects cheating         |
+| GCP        | Studying| - [Beachy](https://github.com/theswerd/beachy): Backend built using Cloud Firestore, Cloud Functions, Firebase Auth, and Firebase ML <br>     |
+| AWS        | Studying| - [Steve Swerdlow's Website](http://steveswerdlow.com): I host Steve Swerdlow's website on an AWS EC2, and Route the Domain through Route 53.         |
 
 I am also fluent in Python, Stripe Payment Proccessing, Mobile Google Analytics, and Firestore Queries.
 ---
