@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋Hi, I'm [Ben](https://www.linkedin.com/in/benswerdlow/)
+
 
 <!--
 **theswerd/theswerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
