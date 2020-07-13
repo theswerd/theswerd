@@ -24,10 +24,10 @@ I am also fluent in Python, Stripe Payment Proccessing, Mobile Google Analytics,
 
 🏄‍♀️ I love the **beach**   <br>
 ♟ I play a lot of **chess**  <br>
-🤖 SAMOHI Robotics founding member  <br>
-🌃 Love to volunteer @ [Hack for LA](https://www.hackforla.org) <br>
+🤖 I'm a AMOHI Robotics founding member  <br>
+🌃 I love to volunteer @ [Hack for LA](https://www.hackforla.org) <br>
 😄 Pronouns: He/Him <br>
-<img src="https://github.com/theswerd/theswerd/blob/master/image.png?raw=true" width="12px" height="16px"></img> Flutter Evangelist -- Happy to help anybody getting started
+<img src="https://github.com/theswerd/theswerd/blob/master/image.png?raw=true" width="12px" height="16px"></img> I'm a Flutter Evangelist -- Happy to help anybody getting started
 
 <!--
 **theswerd/theswerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
