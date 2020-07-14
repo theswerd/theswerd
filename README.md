@@ -1,9 +1,10 @@
-### 👋 Hi, I'm [Ben](https://www.linkedin.com/in/benswerdlow/)
-<a href="https://www.instagram.com/ben_swerdlow/"><img src="https://github.com/theswerd/theswerd/blob/master/insta.png?raw=true" height="24px" width="24px"></img></a>
-<a href="https://www.linkedin.com/in/benswerdlow/"><img src="https://github.com/theswerd/theswerd/blob/master/linkedin.png?raw=true" height="24px" width="24px"></img></a>
-<a href="https://www.facebook.com/swerdlowben"><img src="https://github.com/theswerd/theswerd/blob/master/facebook.png?raw=true" height="24px" width="24px"></img></a>
+
+<div> 
+  <h3>👋 Hi, I'm <a href="https://www.linkedin.com/in/benswerdlow/">Ben</a></h3><img src="https://github.com/theswerd/theswerd/blob/master/IMG_2422.JPG?raw=true" height="140px"></img>
+
 
 I'm a rising junior at Santa Monica High School, and aspiring computer scientist.
+</div> 
 
 ---
 #### My top  technologies
@@ -29,6 +30,9 @@ I am also fluent in Python, Stripe Payment Proccessing, Mobile Google Analytics,
 😄 Pronouns: He/Him <br>
 <img src="https://github.com/theswerd/theswerd/blob/master/image.png?raw=true" width="12px" height="16px"></img> I'm a Flutter Evangelist -- Happy to help anybody getting started
 
+<a href="https://www.instagram.com/ben_swerdlow/"><img src="https://github.com/theswerd/theswerd/blob/master/insta.png?raw=true" height="24px" width="24px"></img></a>
+<a href="https://www.linkedin.com/in/benswerdlow/"><img src="https://github.com/theswerd/theswerd/blob/master/linkedin.png?raw=true" height="24px" width="24px"></img></a>
+<a href="https://www.facebook.com/swerdlowben"><img src="https://github.com/theswerd/theswerd/blob/master/facebook.png?raw=true" height="24px" width="24px"></img></a>
 <!--
 **theswerd/theswerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
