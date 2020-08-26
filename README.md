@@ -1,6 +1,8 @@
 
 <div> 
-  <h3>👋 Hi, I'm <a href="https://www.linkedin.com/in/benswerdlow/">Ben</a></h3><img src="https://github.com/theswerd/theswerd/blob/master/IMG_2422.JPG?raw=true" height="140px"></img>
+  <h3>👋 Hi, I'm <a href="https://www.linkedin.com/in/benswerdlow/">Ben</a></h3>
+  
+  ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=theswerd)
 
 
 I'm a rising junior at Santa Monica High School, and aspiring computer scientist.
