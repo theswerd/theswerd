@@ -26,17 +26,6 @@ I'm a rising junior at Santa Monica High School, and aspiring computer scientist
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 
-
----
-#### Other
-
-🏄‍♀️ I love the **beach**   <br>
-♟ I play a lot of **chess**  <br>
-🤖 I'm a SAMOHI Robotics founding member  <br>
-🌃 I love to volunteer @ [Hack for LA](https://www.hackforla.org) <br>
-😄 Pronouns: He/Him <br>
-<img src="https://github.com/theswerd/theswerd/blob/master/image.png?raw=true" width="12px" height="16px"></img> I'm a Flutter Evangelist -- Happy to help anybody getting started
-
 <a href="https://www.instagram.com/ben_swerdlow/"><img src="https://img.shields.io/badge/ben_swerdlow%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </img></a>
 <a href="https://www.linkedin.com/in/benswerdlow/"><img src="https://github.com/theswerd/theswerd/blob/master/linkedin.png?raw=true" height="24px" width="24px"></img></a>
