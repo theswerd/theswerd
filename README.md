@@ -9,19 +9,24 @@ I'm a rising junior at Santa Monica High School, and aspiring computer scientist
 </div> 
 
 ---
-#### My top  technologies
-| Technology | Fluency | Projects/Contributions |
-|------------|---------|----------|
-| Flutter    | 🌟Fluent| - 🌟[WHO App](https://github.com/WorldHealthOrganization/app): I am a core contributor to the WHO COVID-19 App project <br> - [WHOFlutter](https://github.com/theswerd/WHOFlutter): I built the base for the WHO's COVID-19 App in Flutter <br> - [SAMOHI Connect](https://github.com/theswerd/SAMOConnectOpen): An app I built for my high school, to help modernize their online resources|
-| JavaScript     | 🌟Fluent| - [Public Tree Map](https://github.com/theswerd/public-tree-map): Using Vanilla JavaScript, CSS, and HTML, I worked on re-structuring the front-end sidebar, and topbar. I also helped to create the mobile structures.   <br> - [Yale Open Lab Consumer Disclosure](https://github.com/YaleOpenLab/rhizomatic): Built the front end for a svelte chrome extension.   |
-| NodeJS     | 🌟Fluent| - [SAMOHI Connect](https://github.com/theswerd/SAMOConnectOpen): An app I built for my high school, backend is NodeJS Cloud Functions.         |
-| ReactJS    | Studying| - [Material UI](https://github.com/mui-org/material-ui): Contributed to Material UI          |
-| Kubernetes | Studying| - [HackAuth](https://github.com/cheezbit/hackauth): Go Fiber backend to detect devpost projects cheating hosted on Kubernetes |
-| Go-lang    | Studying| - [HackAuth](https://github.com/cheezbit/hackauth): Go Fiber backend to detect devpost projects cheating         |
-| GCP        | Studying| - [Beachy](https://github.com/theswerd/beachy): Backend built using Cloud Firestore, Cloud Functions, Firebase Auth, and Firebase ML <br>     |
-| AWS        | Studying| - [Steve Swerdlow's Website](http://steveswerdlow.com): I host Steve Swerdlow's website on an AWS EC2, and Route the Domain through Route 53.         |
+#### Technologies I use
+##### Mobile
+<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+##### Backend
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
-I am also fluent in Python, Stripe Payment Proccessing, Mobile Google Analytics, and Firestore Queries.
+##### Data Analysis
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+##### Web
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+
+##### Version Control
+
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+
+
 ---
 #### Other
 
@@ -32,20 +37,7 @@ I am also fluent in Python, Stripe Payment Proccessing, Mobile Google Analytics,
 😄 Pronouns: He/Him <br>
 <img src="https://github.com/theswerd/theswerd/blob/master/image.png?raw=true" width="12px" height="16px"></img> I'm a Flutter Evangelist -- Happy to help anybody getting started
 
-<a href="https://www.instagram.com/ben_swerdlow/"><img src="https://github.com/theswerd/theswerd/blob/master/insta.png?raw=true" height="24px" width="24px"></img></a>
+<a href="https://www.instagram.com/ben_swerdlow/"><img src="https://img.shields.io/badge/ben_swerdlow%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+</img></a>
 <a href="https://www.linkedin.com/in/benswerdlow/"><img src="https://github.com/theswerd/theswerd/blob/master/linkedin.png?raw=true" height="24px" width="24px"></img></a>
 <a href="https://www.facebook.com/swerdlowben"><img src="https://github.com/theswerd/theswerd/blob/master/facebook.png?raw=true" height="24px" width="24px"></img></a>
-<!--
-**theswerd/theswerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
