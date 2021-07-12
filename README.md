@@ -5,4 +5,4 @@ Get one to scout, figure it out,
 100 errors of code on the app.
 ```
 
-If you know, you know 🍻
+Two time bee sting survivor 🍻
